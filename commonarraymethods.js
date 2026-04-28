@@ -27,5 +27,7 @@ for(let i=0; i< drinkOrders.length; i++)
 }
 drinkOrders.push("Cappacino");
 console.log(drinkOrders);
-
+drinkOrders.push("Flat White");
+console.log(drinkOrders);
+console.log(drinkOrders.length);
 
